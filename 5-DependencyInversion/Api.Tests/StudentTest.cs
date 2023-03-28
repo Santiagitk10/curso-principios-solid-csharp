@@ -20,6 +20,7 @@ public class StudentTest
     // }
 
 
+    //CON EL COMANDO dotnet test SE EJECUTAN LAS PRUEBAS
     [Fact]
     public void GetStudent()
     {
